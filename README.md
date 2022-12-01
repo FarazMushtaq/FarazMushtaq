@@ -2,12 +2,14 @@
   <img src="https://github.com/FarazMushtaq/FarazMushtaq/blob/main/github-min.gif" alt="Hi, I'm Faraz Mushtaq 👋 I'm a Web Developer 💻 I ❤️ Coding ❤️">
 </p>
 
-<h4 align="center">
-💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@akasrai_</a>
-</h4>
-<p  align="center">
-<a href="https://akasrai.github.io/">https://akasrai.github.io</a>
-</p>
+**Social Media:**
+
+[![GitHub](icons/github.png)](https://github.com/FarazMushtaq)
+[![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
+[![Twitter](icons/twitter.png)](https://twitter.com/faraz_mushtaq_)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/farazmushtaq/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/faraz_mushtaq_/)
+[![Tiktok](icons/tiktok.png)](https://www.tiktok.com/faraz_mushtaq_/)
 
 <br/>
 <h3 align="center">
