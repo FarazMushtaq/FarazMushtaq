@@ -1,7 +1,5 @@
-<h3 align="center"> Hi there 👋</h3>
-
 <p align="center">
-I'm Akas, a self-motivated tech enthusiast and full stack web developer.
+  <img src="https://github.com/FarazMushtaq/FarazMushtaq/blob/main/github-min.gif" alt="Hi, I'm Faraz Mushtaq 👋 I'm a Web Developer 💻 I ❤️ Coding ❤️">
 </p>
 
 <h4 align="center">
