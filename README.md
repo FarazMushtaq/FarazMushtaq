@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Tech Dev  
+# 👋 Hi, I'm Ahmed Faraz
 ### 💻 Laravel Developer | API Integrations | Payment Systems Specialist  
 
 📞 **+92-300-2150731**  
-📧 **techdev@engineer.com**  
-🌐 **github.com/techdev**
+📧 **farazmushtaq@engineer.com**  
+🌐 **github.com/farazmushtaq**
 
 ---
 
